@@ -7,8 +7,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: zhao hongyu
+title: 赵鸿宇
 email: 15093397106@163.com
+#encoding: utf-8
+cover_color: purple
+highlighter: purple
 description:  Write an awesome description for your new site here. You can edit this
               line in _config.yml. It will appear in your document head meta (for
               Google search results) and in your feed.xml site description.
